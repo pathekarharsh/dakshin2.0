@@ -1,0 +1,28 @@
+.footer{
+    padding: 1rem 0;
+    width: 100%;
+    background-color: #161616;
+    
+}
+
+.footer-container{
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.email p{
+    line-height: 20px;
+    font-size: 1rem;
+}
+
+.social{
+    margin-top:  0.5rem;
+}
+
+.bottom{
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
